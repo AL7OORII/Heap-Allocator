@@ -1,0 +1,6 @@
+[submodule "simpletest"]
+	path = Task1+2/simpletest
+	url = https://github.com/kudaba/simpletest
+[submodule "Task3/simpletest"]
+	path = Task3/simpletest
+	url = https://github.com/kudaba/simpletest
